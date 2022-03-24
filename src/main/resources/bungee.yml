@@ -1,0 +1,3 @@
+name: ActiNetworkManager
+version: '${project.version}'
+main: net.acticraft.plugin.actinetworkmanager.ActiNetworkManager
