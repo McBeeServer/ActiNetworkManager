@@ -6,7 +6,7 @@ public final class ActiNetworkManager extends Plugin {
 
     @Override
     public void onEnable() {
-
+//test
     }
 
     @Override
